@@ -6,7 +6,7 @@ Welcome to the Security Policy of this project.
 
 | Version | Support until | Supported | Build State |
 | --- | --- | --- | --- |
-| 1.100.4 | :x: | :x: | Preview [^5] |
+| 1.100.4 | 02.08.2023 [^1] | :white_check_mark: | Stanle [^4] |
 | 1.100.3 | 01.03.2023 [^1] | :white_check_mark: | Stable [^4] |
 | 1.100.2 | 28.02.2023 [^1] | :white_check_mark: | Stable [^4] |
 | 1.100.1 | 09.02.2023 [^1] | :white_check_mark: | Stable [^4] |
